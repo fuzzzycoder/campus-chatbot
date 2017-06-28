@@ -1,0 +1,6 @@
+hospital:infirmary,clinic,care unit,medic
+doctor:surgeon,physician,medico,Dr.,medical practitioner,one
+nurse:four,help
+treatment:care,intervention,handling,discourse
+ambulance:omini,van,automobile
+facility:building,ambulances,wards,doctor,nurses,medics
